@@ -1,7 +1,6 @@
 # Harshit Laxkar
 
 📧 hlaxkar@gmail.com  
-📞 +91-9460986973  
 🌐 [github.com/hlaxkar](https://github.com/hlaxkar)  
 💼 [linkedin.com/in/hlaxkar](https://linkedin.com/in/hlaxkar)  
 
