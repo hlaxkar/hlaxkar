@@ -1,57 +1,22 @@
-# Harshit Laxkar
+# 💫 About Me:
+🔭 I’m currently working on Tachiyomi-Desktop<br>👯 I’m looking to collaborate on Frontend Development Projects<br>🤝 I’m looking for help with Tachiyomi-Desktop<br>🌱 I’m currently learning MEAN stack<br>
 
-📧 hlaxkar@gmail.com  
-🌐 [github.com/hlaxkar](https://github.com/hlaxkar)  
-💼 [linkedin.com/in/hlaxkar](https://linkedin.com/in/hlaxkar)  
 
-## About Me
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hlaxkar) 
 
-I am a 23-year-old Web Developer with a passion for creative digital arts. Energetic and always eager to learn new skills, I am driven by curiosity and a desire to create things that can change lives or amaze people.
+# 💻 Tech Stack:
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white) ![Krita](https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B) ![Adobe Dreamweaver](https://img.shields.io/badge/Adobe%20Dreamweaver-FF61F6.svg?style=for-the-badge&logo=Adobe%20Dreamweaver&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=hlaxkar&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=hlaxkar&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=hlaxkar&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## Certifications
 
-- Angular with Tailwind CSS - Bit to Byte Robotics, Kota | 2022
-- Web Development using PHP & MySQL - Centre for Cloud & DevOps Training Society, Bikaner
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 
-## Technical Skills
-
-**Languages:** PHP, Python, HTML, CSS, JavaScript, TypeScript, C/C++  
-**Frameworks:** Angular, Tailwind, jQuery  
-**Databases:** MySQL  
-**Development Tools:** Adobe Dreamweaver, Visual Studio Code, Adobe Photoshop, Adobe Illustrator
-
-## Education
-
-- B.Tech in Information Technology, Rajasthan Technical University, Kota | 2021-2024
-- Diploma in Computer Science Engineering, Govt. Polytechnic College Kota, Rajasthan | 2018-2021
-  - Overall Percentage: 70%
-  - Projects: 
-    - Developed DuckBook for Second year project
-    - Developed ScreenDuck for Third year project
-- High School, Maa Bharti Sr. Sec. School, RBSE | 2016-2018
-
-## Projects
-
-### ScreenDuck
-
-Repository: [github.com/hlaxkar/ScreenDuck](https://github.com/hlaxkar/ScreenDuck)
-
-A Movie tracking website with user reviews and lists. Implemented TMDB API with PHP as the backend. Created the frontend from scratch and designed the user database using MySQL.
-
-### DuckBook
-
-Repository: [github.com/hlaxkar/Duckbook](https://github.com/hlaxkar/Duckbook)
-
-A college social media network for students with admin control. Complete user database and CRUD operations implemented using MySQL. Frontend built using Bootstrap & Olympus framework, and backend with PHP.
-
-### Other Projects
-
-- DuckBot - A Telegram Bot made with Python
-- 2048 Game in Angular
-- ArtBlock - A social network for artists made in Angular
-
-Feel free to explore these projects on GitHub for more details.
 
 ---
+[![](https://visitcount.itsvg.in/api?id=hlaxkar&icon=0&color=0)](https://visitcount.itsvg.in)
 
-Thank you for visiting my GitHub profile. If you have any inquiries or would like to discuss potential opportunities, please feel free to reach out to me via email or LinkedIn.
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
